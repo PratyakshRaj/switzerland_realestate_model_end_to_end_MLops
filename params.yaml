@@ -1,0 +1,9 @@
+data_collection:
+  test_size:  0.25
+
+model_building:
+  min_data_in_leaf:  5
+  iterations: 1200
+  depth: 8
+  colsample_bylevel: 1
+  
